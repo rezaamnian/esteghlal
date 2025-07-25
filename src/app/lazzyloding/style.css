@@ -1,0 +1,12 @@
+.ball1{
+    background-color: brown;
+    width: 300px;
+    border:2px solid #fff;
+    display: block;
+    height: 180px;
+    margin: 7px 10px;
+    
+}
+.jj{
+    float: right;
+}

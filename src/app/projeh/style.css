@@ -1,0 +1,64 @@
+.gold1{
+border-radius: 5px;
+width: 95%;
+height: 800px;
+background-color: rgb(5, 2, 37);
+box-shadow:  6px rgb(192, 184, 184) ;
+margin: auto;
+position: relative;
+margin-top: 20px;
+
+}
+
+.gold2{
+    border: 1px solid;
+    border-radius: 5px ;
+    background-color: rgb(158, 73, 36);
+    float: left;
+    margin: 20px;
+    width: 280px;
+    height: 380px;
+
+}
+
+.sabad{
+    border-radius: 5px;
+     position: absolute;
+     bottom: 10px;
+     right: 200px;
+    width: 90px;
+    height: 27px;
+    background-color: #059ced;
+    border: 1px solid #fff;
+}
+.img1{
+    width: 278px;
+    height: 300px;
+    margin: 0px;
+    padding: 0px;
+     border-radius: 5px ;
+}
+
+.gold3{
+    border-radius: 5px;
+    width: 100%;
+    position: relative;
+    background-color: rgb(72, 72, 245);
+    height: 90px;
+}
+.btn1{
+    height: 24px;
+    width: 100px;
+    border-radius: 4px;
+    background-color: rgb(8, 8, 98);
+    border: 1px solid #fff;
+    margin: auto;display: block;margin-top: 8px;
+}
+
+.link1{
+    margin: auto;text-align: center;
+    display: block;
+    margin-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(43, 2, 129);
+}
