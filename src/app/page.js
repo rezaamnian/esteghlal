@@ -40,4 +40,4 @@ export default function Home() {
     </div>
   );
 }
-//npx json-server --watch ./databis/db.json    
+//npx json-server --watch ./databis/db.json 1   
